@@ -4,7 +4,7 @@ body {
     font-family: 'The Girl Next Door', cursive;
 }
 
-
+/*nav menu*/
 #site-name {
     font-size:25px;
 }
@@ -13,7 +13,23 @@ body {
     font-size: 25px;
 }
 
+/*header*/
+
 #header-title {
     font-size: 205px;
     text-align: center;
+}
+
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 36px;
+    margin-left: 766px;
+    text-align: center;
+}
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
 }
