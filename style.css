@@ -4,14 +4,18 @@ body {
     font-family: 'Patrick Hand', cursive;
 } 
 
+/* .navbar, .header-section { 
+    background-color: #44A1A0;
+} */
+
 /*nav menu*/
 #site-name {
     font-family: 'Patrick Hand', cursive;
-    font-size:25px;
+    font-size:1.8em;
 }
 
 #navbarText {
-    font-size: 25px;
+    font-size: 1.8em;
 }
 
 /*header*/
@@ -22,14 +26,14 @@ body {
 #header-title {
     /* font-family: 'The Girl Next Door', cursive; */
     font-family: 'Patrick Hand', cursive;
-    font-size: 95px;
+    font-size: 5em;
     text-align: center;
 }
 
 .sub-header {
     /* font-family: 'The Girl Next Door', cursive; */
     font-family: 'Patrick Hand', cursive;
-    font-size: 55px;
+    font-size: 3.4em;
     text-align: center;
 }
 
@@ -53,7 +57,18 @@ svg.bi.bi-arrow-down {
 } 
 
 /*about section*/
+.about-test {
+    width:365px;
+    height:265px;
+    float:left;
+    padding:22px;
+    margin-left:205px;
+}
 
+.about-title {
+    text-align:center;
+    font-size:3em;
+}
 
 
 
