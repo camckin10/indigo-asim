@@ -4,9 +4,15 @@ body {
     font-family: 'Patrick Hand', cursive;
 } 
 
-/* .navbar, .header-section { 
+.navbar-header {
     background-color: #44A1A0;
-} */
+    padding-bottom: 65px;
+}
+
+
+.navbar { 
+    padding-top:10px;
+}
 
 /*nav menu*/
 #site-name {
@@ -56,7 +62,34 @@ svg.bi.bi-arrow-down {
     -webkit-transform: rotate(45deg);
 } 
 
+/*overview section*/ 
+.overview {
+    padding-top:10px;
+}
+
+/*look-listen cards*/
+.look {
+    float:left;
+    margin-left:43px;
+    /* padding-left:5px; */
+}
+
+
+.listen {
+    float:right;
+    margin-left:-4px;
+}
+
+.card-title, .card-text {
+    font-size:2em;
+}
+
+
 /*about section*/
+/* .about-text {
+    text-align: center;
+}
+
 .about-test {
     width:365px;
     height:265px;
@@ -68,7 +101,7 @@ svg.bi.bi-arrow-down {
 .about-title {
     text-align:center;
     font-size:3em;
-}
+}  */
 
 
 
