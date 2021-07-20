@@ -5,13 +5,11 @@ body {
     margin:0;
 } 
 
-.navbar-header {
-    background-color: #44A1A0;
-    width:100%;
-} 
+
 
 .navbar { 
-    padding-top:10px;
+    background-color: #44A1A0;
+
 }
 
 /*nav menu*/
@@ -62,7 +60,7 @@ body {
 
 /*overview section*/ 
 .overview {
-    padding-top:10px;
+    padding-top:15px;
 }
 
 .overview-button {
@@ -131,7 +129,7 @@ body {
    width: 100%;
    background-color:#44A1A0;
    color: black;
-   padding-top:25px;
+   /* padding-top:10px; */
    text-align: center;
  
 }
